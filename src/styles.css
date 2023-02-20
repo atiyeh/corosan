@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(248, 232, 166);
+}
+h1,
+h3 {
+  text-align: center;
+  font-family: "https://fonts.googleapis.com/css2?family=Rubik+Gemstones&family=Train+One&display=swap";
+}
+footer {
+  display: flex;
+  justify-content: center;
+}
+img {
+  display: block;
+  margin: 0px auto;
+}
+footer a {
+  margin: 0 10px;
+  color: green;
+}
